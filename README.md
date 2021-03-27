@@ -14,7 +14,7 @@
 
 <!-- To Do List -->
 ### Project To Do List
-- [X] Upload BigTreeTech Firmware
+- [X] Upload BigTreeTech Firmware (Modified by BigTreeTech)
 - [ ] Upload Detailed Modification Details
 
 
